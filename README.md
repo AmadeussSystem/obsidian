@@ -23,7 +23,7 @@ HyDE's wallbash template for Obsidian.
   - or line to your `.bashrc` or `.bash_profile` file or similar rc files
 
 ```bash
-export OBSIDIAN_VAULT="${HOME}/Documents/Obsidian\ Vault/.obsidian/themes/Wallbash"
+export OBSIDIAN_VAULT="${HOME}/Documents/Obsidian/Vault/.obsidian/themes/Wallbash"
 git clone https://github.com/HyDE-Project/obsidian "${OBSIDIAN_VAULT:-${HOME}/Documents/Obsidian Vault}/.obsidian/themes/Wallbash/"
 cd "${OBSIDIAN_VAULT:-${HOME}/Documents/Obsidian Vault}/.obsidian/themes/Wallbash/"
 ```
